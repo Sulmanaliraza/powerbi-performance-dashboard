@@ -1,0 +1,11 @@
+date,service_line,site,incidents,response_time_min,resolution_time_min,sla_target_response_min,sla_target_resolution_min,customer_satisfaction
+2025-11-01,Health,Adelaide CBD,12,18,240,30,360,4.2
+2025-11-01,Education,North Adelaide,9,22,310,30,360,4.0
+2025-11-02,Health,Adelaide CBD,15,28,420,30,360,3.8
+2025-11-02,Education,North Adelaide,10,19,260,30,360,4.1
+2025-11-03,Health,Adelaide CBD,11,16,210,30,360,4.3
+2025-11-03,Education,North Adelaide,14,33,390,30,360,3.7
+2025-11-04,Health,Adelaide CBD,8,14,180,30,360,4.4
+2025-11-04,Education,North Adelaide,13,27,340,30,360,3.9
+2025-11-05,Health,Adelaide CBD,17,31,460,30,360,3.6
+2025-11-05,Education,North Adelaide,12,21,300,30,360,4.0
